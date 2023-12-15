@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-I'm Andreson Souza,  I'm a Software Engineer at Procenge, and I've been working in tech since 2009. I'm from Brazil, and I'm currently living in a small town called Paudalho.
+Meu nome é Andreson Souza, sou Engenheiro de Software na Procenge e trabalho com desenvolvimento de frontend.
 
 [![Linkedin: andreson](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andreson-souza-9777a027/)](https://www.linkedin.com/in/andreson-souza-9777a027/)
 
-## ⚡ Technologies
+## ⚡ Tecnologias
 
-These are some of the technologies and tools that I work with:
+Estas são algumas das tecnologias e ferramentas com as quais tenho conhecimento:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
