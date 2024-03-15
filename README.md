@@ -1,6 +1,6 @@
-### Hi there 👋
+### Olá 👋
 
-Meu nome é Andreson Souza, sou Engenheiro de Software na Procenge e trabalho com desenvolvimento de frontend.
+Meu nome é Andreson Souza, sou Engenheiro de Software e trabalho com desenvolvimento de frontend.
 
 [![Linkedin: andreson](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andreson-souza-9777a027/)](https://www.linkedin.com/in/andreson-souza-9777a027/)
 
